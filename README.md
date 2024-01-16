@@ -15,7 +15,9 @@ Dosen pengampu : Donny Maulana, S.kom, M.kom, M.M.S.I.
 
 ## run
 
-(https://github.com/Syhrlhrynt/ProjectUAS/assets/129706370/e485248d-d5a0-43d3-86df-7fed1ef11773)
+https://github.com/Syhrlhrynt/ProjectUAS/assets/129706370/33253e85-963b-4334-b8da-325cdcaa9cd5
+
+
 
 
 
