@@ -10,7 +10,8 @@ Dosen pengampu : Donny Maulana, S.kom, M.kom, M.M.S.I.
 
 ## pdf
 
-[TUTORIAL PEMBUATAN PROJECT APLIKASI.pdf](https://github.com/firlimaharani/ProjectFirli/files/13914987/TUTORIAL.PEMBUATAN.PROJECT.APLIKASI.pdf)
+[TutorialProgram.pdf](https://github.com/Syhrlhrynt/ProjectUAS/files/13950013/TutorialProgram.pdf)
+
 
 ## run
 
